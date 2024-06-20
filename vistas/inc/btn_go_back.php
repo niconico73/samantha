@@ -1,0 +1,1 @@
+<p class="text-right"><a href="#" class="btn btn-raised btn-info btn-go-back"><i class="fas fa-reply"></i> &nbsp; Regresar atrás</a></p>
